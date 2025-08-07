@@ -81,11 +81,3 @@ Tracks business growth or decline over time, reveals overall trends, and support
 This dashboard was created in Tableau. It can be published via Tableau Public, Tableau Server, or Tableau Cloud.  
 Access available upon request.
 
-## Authors
-
-- [Your Name] — Dashboard development, data analysis
-
-## License
-
-[Specify license, e.g., MIT License or Proprietary/Internal Use Only]
-
