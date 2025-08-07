@@ -77,9 +77,3 @@ Tracks business growth or decline over time, reveals overall trends, and support
 ## Data Coverage
 
 2016–2019
-
-## Access
-
-This dashboard was created in Tableau. It can be published via Tableau Public, Tableau Server, or Tableau Cloud.  
-Access available upon request.
-
