@@ -12,8 +12,8 @@ The dashboard is based on data from **2016 to 2019** and includes multiple inter
 
 ## Technologies Used
 
-- Tableau (Desktop or Online)
-- Data Source: Sales, profit, customer segments, regions, states (2016–2019)
+- Tableau
+- Data Used: Sales, profit, customer segments, regions, states (2016–2019)
 
 ## Key Visualizations and Features
 
