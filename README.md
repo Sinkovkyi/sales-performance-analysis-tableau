@@ -10,6 +10,8 @@ This project is an interactive analytics dashboard built in **Tableau** for moni
 
 The dashboard is based on data from **2016 to 2019** and includes multiple interrelated visual components.
 
+![My Dashboard Screenshot](demo.png)
+
 ## Technologies Used
 
 - Tableau
